@@ -1,0 +1,11 @@
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\bin\Debug\GameJokenpo.exe.config
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\bin\Debug\GameJokenpo.exe
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\bin\Debug\GameJokenpo.pdb
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.csproj.AssemblyReference.cache
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.csproj.SuggestedBindingRedirects.cache
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.Form1.resources
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.Properties.Resources.resources
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.csproj.GenerateResource.cache
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.csproj.CoreCompileInputs.cache
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.exe
+C:\Temp\Blackeye Tech\GameJokenpo\GameJokenpo\obj\Debug\GameJokenpo.pdb
